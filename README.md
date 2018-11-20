@@ -15,6 +15,7 @@ It is a powerful mechanism to describe the tokens.
  It is a initial program for the compiler, which reads theinput character by character and converts them into                                       meaningful sequence.
 
 How To Execute Lex Program?
+
 ●  Open any text editor( Alternatively you can open it using terminal; type gedit filename.l ).
 
 ●  Type your program and save it using “.l” extension.

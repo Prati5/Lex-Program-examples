@@ -1,7 +1,8 @@
 # Lex-Program-examples
 Simple example on Lex programming.
 What is lex?
-Lex is a programming tool on UNIX platform,takes the tokens as a input in the form of regular       expression and generates the c routine called as lexer.
+Lex is a programming tool on UNIX platform,takes the tokens as a input in the form of regular expression and generates the c routine called as lexer.
+
 ● Lexer is also called as lexical analyser.
 
 Tokens:

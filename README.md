@@ -6,6 +6,7 @@ Lex is a programming tool on UNIX platform,takes the tokens as a input in the fo
 ● Lexer is also called as lexical analyser.
 
 Tokens:
+
 Tokens  are nothing but primitives of any programming language. It can be constants,keywords,expressions,identifiers etc. Tokens can be the combination of alphabets, digits or any metacharacters.
 [Note: metacharacters are special symbols like *, $ etc]. 
 
@@ -13,6 +14,7 @@ Regular expression :
 It is a powerful mechanism to describe the tokens.
 
  Lexical Analyser: 
+ 
  It is a initial program for the compiler, which reads theinput character by character and converts them into                                       meaningful sequence.
 
 How To Execute Lex Program?

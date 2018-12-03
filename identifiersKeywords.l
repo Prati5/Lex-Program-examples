@@ -7,7 +7,6 @@
 
 %{
 #include<stdio.h>
-int key_Count=0, id_count=0;
 %}
 %%
 const |
